@@ -1,5 +1,5 @@
 PODS:
-  - GitPod (0.1.0)
+  - GitPod (0.0.1)
 
 DEPENDENCIES:
   - GitPod (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  GitPod: 835c0c187706d37fe6518fb122282149350c061d
+  GitPod: 3ce869699e152a1b1eff99d3f5aaf3412bb56de1
 
 PODFILE CHECKSUM: aa3b7f5a298e43e2bc0e3fe0686943892940de8f
 
