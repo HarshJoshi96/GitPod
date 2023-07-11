@@ -1,0 +1,22 @@
+{
+  "name": "GitPod",
+  "version": "0.1.0",
+  "summary": "A short description of GitPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Harsh Joshi/GitPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Harsh Joshi": "harsh.joshi@infobeans.com"
+  },
+  "source": {
+    "git": "https://github.com/Harsh Joshi/GitPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "GitPod/Classes/**/*"
+}
